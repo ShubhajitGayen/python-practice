@@ -7,7 +7,7 @@ Fibonacci Series
 Armstrong Number
 Palindrome Checker
 Number Guessing Game
-Pattern Printing
+Pattern Printing(Floyd's Triangle)
 🔹 String Problems
 Count Vowels & Consonants
 Reverse Words
